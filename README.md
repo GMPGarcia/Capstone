@@ -6,11 +6,11 @@ Accurate landing predictions can help estimate the cost of a launch, which is va
 
 ## Acknowledgements
 
-The structure of this capstone project was provided by IBM Skills Network, specifically by:
+The materials for this capstone project was provided by IBM Skills Network, specifically by:
 
 - [Joseph Santarcangelo](https://www.linkedin.com/in/joseph-s-50398b136/)
 - [Nayef Abou Tayoun](https://www.linkedin.com/in/nayefaboutayoun/)
 - [Yan Luo](https://www.linkedin.com/in/yan-luo-96288783/)
+- [Pratiksha Verma](https://www.linkedin.com/in/pratiksha-verma-6487561b1/)
 - **Lakshmi Holla**
 - **Rav Ahuja**
-- [Pratiksha Verma](https://www.linkedin.com/in/pratiksha-verma-6487561b1/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDS0321ENSkillsNetwork865-2022-01-01)
