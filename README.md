@@ -13,7 +13,6 @@ This repository contains a series of Jupyter notebooks dedicated to analyzing da
 7. [Machine Learning Prediction](#7-machine-learning-prediction)
 8. [Acknowledgements](#Acknowledgements)
 9. [Author](#Author)
-11. [Machine Learning Prediction](#7-machine-learning-prediction)
    
 
 ## 1. Data Collection via API
@@ -51,8 +50,6 @@ Using Folium, this notebook visualizes the geographic distribution of Falcon 9 l
 **Notebook:** `7-Machine-Learning-Prediction.ipynb`  
 In this notebook, we apply machine learning models to predict the outcome of Falcon 9 launches. We explore various algorithms and evaluate their performance using metrics like accuracy and F1-score.
 
----
-
 ## 8. Acknowledgements
 
 The materials for this capstone project was provided by IBM Skills Network, specifically by:
@@ -64,9 +61,7 @@ The materials for this capstone project was provided by IBM Skills Network, spec
 - **Lakshmi Holla**
 - **Rav Ahuja**
 
----
-
-### 9. Author
+## 9. Author
 
 #### [Gonçalo Garcia](https://www.linkedin.com/in/goncalompgarcia/)  
 #### [linkedin.com/in/goncalompgarcia/](https://www.linkedin.com/in/goncalompgarcia/)  
