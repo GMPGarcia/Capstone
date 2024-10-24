@@ -11,6 +11,10 @@ This repository contains a series of Jupyter notebooks dedicated to analyzing da
 5. [Exploratory Data Analysis with Python](#5-exploratory-data-analysis-with-python)
 6. [Launch Sites Locations Analysis with Folium](#6-launch-sites-locations-analysis-with-folium)
 7. [Machine Learning Prediction](#7-machine-learning-prediction)
+8. [Acknowledgements](#Acknowledgements)
+9. [Author](#Author)
+11. [Machine Learning Prediction](#7-machine-learning-prediction)
+   
 
 ## 1. Data Collection via API
 
@@ -49,8 +53,7 @@ In this notebook, we apply machine learning models to predict the outcome of Fal
 
 ---
 
-
-## Acknowledgements
+## 8. Acknowledgements
 
 The materials for this capstone project was provided by IBM Skills Network, specifically by:
 
@@ -61,10 +64,11 @@ The materials for this capstone project was provided by IBM Skills Network, spec
 - **Lakshmi Holla**
 - **Rav Ahuja**
 
+---
 
-### Author
+### 9. Author
 
-[![Gonçalo Garcia](https://media.licdn.com/dms/image/v2/D4D03AQFy-sZDCp5IKw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1677110860633?e=1735171200&v=beta&t=05qcF4FXWzO8wMClr336EQPTYgYVSxfq0Da4WIGe7n8)](https://www.linkedin.com/in/goncalompgarcia/)  
+[![Gonçalo Garcia](https://media.licdn.com/dms/image/v2/D4D03AQFy-sZDCp5IKw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1677110860633?e=1735171200&v=beta&t=05qcF4FXWzO8wMClr336EQPTYgYVSxfq0Da4WIGe7n8)](https://www.linkedin.com/in/goncalompgarcia/)  
 
 #### [Gonçalo Garcia](https://www.linkedin.com/in/goncalompgarcia/)  
 #### [linkedin.com/in/goncalompgarcia/](https://www.linkedin.com/in/goncalompgarcia/)  
