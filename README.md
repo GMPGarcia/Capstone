@@ -1,6 +1,6 @@
 # SpaceX-Falcon-9-Capstone
 
-This repository contains a series of Jupyter notebooks dedicated to analyzing data related to SpaceX's Falcon 9 rocket launches. The project demonstrates the full data science workflow, from data collection and wrangling to exploratory analysis and machine learning prediction. Each notebook in this repository tackles a specific part of the analysis pipeline.
+This repository contains a series of Jupyter notebooks dedicated to analyzing data related to SpaceX's Falcon 9 rocket launches. The project demonstrates the full data science workflow, from data collection and wrangling to exploratory analysis and machine learning prediction. Each notebook in this repository tackles a specific part of the analysis pipeline. This work was the capstone final project of the IBM Data Science Professional Certificate Course 2024.
 
 ## Table of Contents
 
