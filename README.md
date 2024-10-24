@@ -11,8 +11,8 @@ This repository contains a series of Jupyter notebooks dedicated to analyzing da
 5. [Exploratory Data Analysis with Python](#5-exploratory-data-analysis-with-python)
 6. [Launch Sites Locations Analysis with Folium](#6-launch-sites-locations-analysis-with-folium)
 7. [Machine Learning Prediction](#7-machine-learning-prediction)
-8. [Acknowledgements](#acknowledgements)
-9. [Author](#author)
+8. [Acknowledgements](#8-acknowledgements)
+9. [Author](#9-author)
 
    
 
