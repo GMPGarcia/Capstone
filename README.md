@@ -68,8 +68,6 @@ The materials for this capstone project was provided by IBM Skills Network, spec
 
 ### 9. Author
 
-[![Gonçalo Garcia](https://media.licdn.com/dms/image/v2/D4D03AQFy-sZDCp5IKw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1677110860633?e=1735171200&v=beta&t=05qcF4FXWzO8wMClr336EQPTYgYVSxfq0Da4WIGe7n8)](https://www.linkedin.com/in/goncalompgarcia/)  
-
 #### [Gonçalo Garcia](https://www.linkedin.com/in/goncalompgarcia/)  
 #### [linkedin.com/in/goncalompgarcia/](https://www.linkedin.com/in/goncalompgarcia/)  
 Data-driven Value Delivery | Python, SQL, Analytics | Digital & Project Management | Mechanical Engineer | Private Teacher
